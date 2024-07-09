@@ -98,7 +98,7 @@
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=bluegrace0206)
 
 <!-- atcoder -->
-![atcoder](https://atrating.baoshuo.dev/rating?username=aaryak4554) 
+![atcoder](https://atrating.baoshuo.dev/rating?username=aaryak1369) 
 
  <!-- leetcode -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aaryak1369?theme=light&font=PT%20Mono&ext=contest)
