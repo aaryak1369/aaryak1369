@@ -105,7 +105,7 @@
 
 <hr>
 <!-- github stata -->
-<img src="https://github-readme-stats.vercel.app/api?username=aaryak4554&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryak4554&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aaryak1369&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryak1369&layout=compact"/>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=100%&section=footer"/> </p>
