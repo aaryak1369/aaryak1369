@@ -101,11 +101,23 @@
 ![atcoder](https://atrating.baoshuo.dev/rating?username=aaryak1369) 
 
  <!-- leetcode -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/aaryak1369?theme=light&font=PT%20Mono&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aaryak1369?theme=light&font=ABeeZee&ext=contest&width=800)
 
 <hr>
-<!-- github stata -->
-<img src="https://github-readme-stats.vercel.app/api?username=aaryak1369&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryak1369&layout=compact"/>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=100%&section=footer"/> </p>
+<!-- github stata -->
+<table>
+  <td>
+     <img src="https://github-readme-stats.vercel.app/api?username=aaryak1369&show_icons=true" align="center" height="200px"/>
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryak1369&layout=compact&&width=450"  align="center" height="200px" width="500px"/>
+  </td>
+</table>
+
+<!-- Streak Graph -->
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=aaryak1369&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div> -->
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=900&section=footer"/> </div>
