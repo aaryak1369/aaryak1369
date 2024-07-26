@@ -19,7 +19,7 @@
 <hr>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<div align="center">
 <!-- linkedin -->
     <a href="https://www.linkedin.com/in/aarya-khandare-50462927a/" alt="linkedin">
         <img height="80" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
@@ -52,12 +52,12 @@
     <a href="joinaarya30@gmail.com" alt="mail">
         <img height="80" src="https://img.icons8.com/?size=512&id=xLIkjgcmFOsC&format=png"/>
     </a>
-</p>
+</div>
 
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" padding="20px">
+<div align="center" padding="20px">
 <!-- c++ -->
 <img src="https://skillicons.dev/icons?i=cpp" width="99">
 <!-- html -->
@@ -85,7 +85,7 @@
  <!-- mongodb -->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
   
-</p>
+</div>
 
 <hr>
 
@@ -104,15 +104,14 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aaryak1369?theme=light&font=ABeeZee&ext=contest&width=800)
 
 <hr>
-
 <!-- github stata -->
 <table>
-  <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=aaryak1369&show_icons=true" align="center" height="200px"/>
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryak1369&layout=compact&&width=450"  align="center" height="200px" width="500px"/>
-  </td>
+    <td align="center">
+        <a href="https://github.com/aaryak1369"><img align="center" height="220px"  src="https://github-readme-stats.vercel.app/api?username=aaryak1369&show_icons=true&locale=en&theme=light" /></a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/aaryak1369"><img align="center" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryak1369&show_icons=true&locale=en&layout=compact&theme=light" /></a>
+    </td>
 </table>
 
 <!-- Streak Graph -->
