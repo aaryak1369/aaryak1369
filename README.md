@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryak4554&label=Profile%20views&color=0e75b6&style=flat" alt="aaryak4554" /> </p>
 
-- 🌱 I’m currently learning: **Typescript, Nextjs, Framer Motion**
+- 🌱 I’m currently learning the intricacies of **Redux, Nextjs, Framer Motion**
   
-- 👨‍💻 All of my projects are available at [https://github.com/aaryak4554](https://github.com/aaryak4554)
+- 📄 Curious about my experiences ? Check out my [Resume](https://drive.google.com/file/d/1aVQ4owT7QAPWP-n3pPB2OZfcw9hoLh5o/view?usp=sharing)
+  
+- 👨‍💻 All of my projects are available at [https://github.com/aaryak1369](https://github.com/aaryak1369)
   
 - 📫 How to reach me **joinaarya30@gmail.com**
-  
-- 📄 Resume:  [https://drive.google.com/file/d/1MtDhSmjn_ZvV7VTC-RWcI4pWF119LDLc/view?usp=sharing](https://drive.google.com/file/d/1MtDhSmjn_ZvV7VTC-RWcI4pWF119LDLc/view?usp=sharing)
 
 - ⚡ Fun fact- **The only letter of the English alphabet that is not represented by any chemical element symbol on the periodic table is the letter "J."**
   
