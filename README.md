@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning the intricacies of **Redux, Nextjs, Framer Motion**
   
-- 📄 Curious about my experiences ? Check out my [Resume](https://drive.google.com/file/d/1aVQ4owT7QAPWP-n3pPB2OZfcw9hoLh5o/view?usp=sharing)
+- 📄 Curious about my experiences ? Check out my [Resume](https://drive.google.com/file/d/1dhUyg9BBg-sPSO3x8ty9yNUyWR58SoS7/view?usp=sharing)
   
 - 👨‍💻 All of my projects are available at [https://github.com/aaryak1369](https://github.com/aaryak1369)
   
