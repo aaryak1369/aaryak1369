@@ -12,7 +12,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/aaryak1369](https://github.com/aaryak1369)
   
-- 📫 How to reach me **joinaarya30@gmail.com**
+- 📫 How to reach me **aaryakhandare0@gmail.com**
 
 - ⚡ Fun fact- **The only letter of the English alphabet that is not represented by any chemical element symbol on the periodic table is the letter "J."**
   
